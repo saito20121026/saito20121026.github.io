@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right,rgb(214, 237, 243),rgb(115, 220, 243));
+}
+img{
+    border-radius: 50%;
+}
+h1{
+    color:white;
+    background:#15edc9;
+    text-align:center;
+}
+
+h2{
+    border-left: solid 5px #15edc9;
+    padding-left:10px;
+}
+    
