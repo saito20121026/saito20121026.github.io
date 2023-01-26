@@ -1,0 +1,12 @@
+body {
+    background-color: #81512d;
+    }
+p{
+    font-size: 20px;
+    font-family:Brush Script MT;
+    color: rgb(245, 245, 244);}
+
+    a:link{color: aliceblue; text-decoration: none;}
+    a:visited{color: rgb(231, 243, 216);}
+    a:hover {color: rgb(246, 242, 12);
+    text-decoration: underline;}
